@@ -1,0 +1,24 @@
+* {
+    background-color: dimgray;
+}
+
+.pink {
+    background-color: #F589DE;
+    font-family: Verdana, DejaVu Sans; fallback: sans-serif;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+#meow {
+    color: #89EAF5;
+    font-size: 36px;
+}
+
+#woof {
+    background-color: #89F589;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
