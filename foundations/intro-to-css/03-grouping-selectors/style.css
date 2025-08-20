@@ -5,10 +5,10 @@
 }
 
 .first {
-    background-color: black;
-    color: white;
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .second{
-    background-color: yellow;
+    background-color: rgb(239, 255, 28);
 }
